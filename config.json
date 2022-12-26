@@ -1,0 +1,5 @@
+{
+    "TOKEN": "TOKENBOT", // you can get this here: https://discord.com/developers/applications
+    "GUILD": "GUILDID", // The guild where the pfp should appear
+    "CHANNEL": "858399749723127848" // The channel where the pfp should appear
+}
